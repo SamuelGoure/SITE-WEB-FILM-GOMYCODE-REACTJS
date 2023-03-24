@@ -1,0 +1,17 @@
+.bHeader{
+    background-color: #000000;
+    padding-top: 35px;
+    width: 100%;
+    display: flex;
+   padding-bottom: 15px;
+}
+.bSection{
+    display: flex;
+    margin-right: 150px;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+.bSection img {
+    margin-right: -190px;
+}
