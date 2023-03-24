@@ -1,0 +1,19 @@
+.footer{
+    background-color: black;
+    color: white;
+    padding: 50px;    
+}
+.endTilte{
+font-size: 16px;
+font-weight: bold;
+padding-left: 50px;
+letter-spacing: 1px;
+}
+.allImages{
+   display: flex; 
+   padding: 50px; 
+}
+
+.allImages div {
+    width: 100%;
+}

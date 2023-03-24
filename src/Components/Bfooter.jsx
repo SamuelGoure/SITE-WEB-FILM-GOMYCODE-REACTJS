@@ -16,7 +16,7 @@ function Bfooter(){
                 <img src="plus.png" alt="" />
                 New
             </section>
-            <hr/>
+          
         </div>
     )
 }

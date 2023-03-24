@@ -14,7 +14,6 @@
     background-color: transparent;  
     font-size: 25px;
    
-    
 }
 .cardHeader2{
     position: absolute ;
@@ -52,12 +51,12 @@
 }
 .btn-1:hover{
     background-color: #ff0000;
-    box-shadow: 10px 5px 5px red;
+    box-shadow: 5px 2px 2px gray;
     border: none;
 }
 .btn-2:hover{
   background-color: #ff0000;
-  box-shadow: 10px 5px 5px red;
+  box-shadow: 5px 2px 2px gray;
   border: none;
 }
 
